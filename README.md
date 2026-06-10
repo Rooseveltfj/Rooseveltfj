@@ -5,7 +5,7 @@
 
 <!-- Typing effect -->
 <a href="https://roosevelt-portifolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=620&lines=Full+control%3A+do+schema+ao+deploy+em+produ%C3%A7%C3%A3o.;9%2B+anos+de+experi%C3%AAncia+Fullstack.;React+%E2%80%94+Next.js+%E2%80%94+Node.js+%E2%80%94+TypeScript.;Dispon%C3%ADvel+para+novos+projetos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&width=620&lines=9%2B+anos+de+experi%C3%AAncia+Fullstack.;React+%E2%80%94+Next.js+%E2%80%94+Node.js+%E2%80%94+TypeScript.;Dispon%C3%ADvel+para+novos+projetos." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,7 +19,7 @@
 
 ---
 
-```tsx
+\`\`\`tsx
 const Roosevelt = () => {
   return {
     role:      'Fullstack Developer',
@@ -30,7 +30,7 @@ const Roosevelt = () => {
     available:  true
   }
 }
-```
+\`\`\`
 
 ---
 
@@ -39,8 +39,6 @@ const Roosevelt = () => {
 Desenvolvedor Fullstack com mais de **9 anos** transformando ideias em produtos web que funcionam de verdade. Especializado em interfaces de alta performance com React e Next.js, com back-end sólido em Node.js, sempre com olhar atento à experiência do usuário.
 
 De startups a empresas estabelecidas, já entreguei **30+ projetos** com full control da stack, do schema do banco ao deploy em produção.
-
-> *"Código limpo. Design intencional. Resultados reais."*
 
 ---
 
@@ -84,19 +82,6 @@ De startups a empresas estabelecidas, já entreguei **30+ projetos** com full co
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rooseveltfj&theme=midnight-purple&hide_border=true&background=0f0f1a&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa"/>
-</div>
-
----
-
-## Números que importam
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Projetos%20Entregues-30%2B-6d28d9?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Anos%20de%20Experiência-9%2B-6d28d9?style=for-the-badge&logo=clockify&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/LCP%20Médio-0.8s-22c55e?style=for-the-badge&logo=googleoptimize&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Lighthouse-100-22c55e?style=for-the-badge&logo=lighthouse&logoColor=white&labelColor=0f172a"/>
-
 </div>
 
 ---

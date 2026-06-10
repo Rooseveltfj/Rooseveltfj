@@ -19,7 +19,7 @@
 
 ---
 
-\`\`\`tsx
+```tsx
 const Roosevelt = () => {
   return {
     role:      'Fullstack Developer',
@@ -30,7 +30,7 @@ const Roosevelt = () => {
     available:  true
   }
 }
-\`\`\`
+```
 
 ---
 

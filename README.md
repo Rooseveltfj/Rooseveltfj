@@ -86,13 +86,6 @@ De startups a empresas estabelecidas, já entreguei **+30 projetos** com full co
 
 ---
 
-## Portfolio & Contato
-
-<div align="center">
-
-<a href="https://roosevelt-portifolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-roosevelt--portifolio.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a"/>
-</a>
 
 <br/><br/>
 

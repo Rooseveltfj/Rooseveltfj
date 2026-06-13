@@ -101,7 +101,9 @@ De startups a empresas estabelecidas, já entreguei **+30 projetos** com full co
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rooseveltfj&color=6d28d9&style=for-the-badge&label=Visualizações+do+perfil"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rooseveltfj&color=6d28d9&style=for-the-badge&label=Visualizações+do+perfil" />
+</p>
 
 </div>
 

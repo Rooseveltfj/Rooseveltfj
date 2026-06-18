@@ -38,7 +38,7 @@ const Roosevelt = () => {
 
 Desenvolvedor Fullstack com mais de **9 anos** transformando ideias em produtos web que funcionam de verdade. Especializado em interfaces de alta performance com React e Next.js, com back-end sólido em Node.js, sempre com olhar atento à experiência do usuário.
 
-De startups a empresas estabelecidas, já entreguei **+30 projetos** com full control da stack, do schema do banco ao deploy em produção.
+De startups a empresas estabelecidas, **+30 projetos** com full control da stack, do schema do banco ao deploy em produção.
 
 ---
 

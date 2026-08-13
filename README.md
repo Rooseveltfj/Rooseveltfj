@@ -76,13 +76,6 @@ De startups a empresas estabelecidas, **+30 projetos**.
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rooseveltfj&theme=midnight-purple&hide_border=true&background=0f0f1a&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa"/>
-</div>
 
 ---
 

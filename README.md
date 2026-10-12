@@ -94,10 +94,6 @@ De startups a empresas estabelecidas, **+30 projetos**
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rooseveltfj&color=6d28d9&style=for-the-badge&label=Visualizações+do+perfil" />
-</p>
-
 </div>
 
 ---
